@@ -1,0 +1,11 @@
+D:\clj-prj\PersistentDataStructures\IPersistentDataStructures\bin\Debug\net8.0\IPersistentDataStructures.deps.json
+D:\clj-prj\PersistentDataStructures\IPersistentDataStructures\bin\Debug\net8.0\IPersistentDataStructures.dll
+D:\clj-prj\PersistentDataStructures\IPersistentDataStructures\bin\Debug\net8.0\IPersistentDataStructures.pdb
+D:\clj-prj\PersistentDataStructures\IPersistentDataStructures\obj\Debug\net8.0\IPersistentDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+D:\clj-prj\PersistentDataStructures\IPersistentDataStructures\obj\Debug\net8.0\IPersistentDataStructures.AssemblyInfoInputs.cache
+D:\clj-prj\PersistentDataStructures\IPersistentDataStructures\obj\Debug\net8.0\IPersistentDataStructures.AssemblyInfo.cs
+D:\clj-prj\PersistentDataStructures\IPersistentDataStructures\obj\Debug\net8.0\IPersistentDataStructures.csproj.CoreCompileInputs.cache
+D:\clj-prj\PersistentDataStructures\IPersistentDataStructures\obj\Debug\net8.0\IPersistentDataStructures.dll
+D:\clj-prj\PersistentDataStructures\IPersistentDataStructures\obj\Debug\net8.0\refint\IPersistentDataStructures.dll
+D:\clj-prj\PersistentDataStructures\IPersistentDataStructures\obj\Debug\net8.0\IPersistentDataStructures.pdb
+D:\clj-prj\PersistentDataStructures\IPersistentDataStructures\obj\Debug\net8.0\ref\IPersistentDataStructures.dll
