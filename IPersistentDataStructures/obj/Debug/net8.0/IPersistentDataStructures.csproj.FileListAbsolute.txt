@@ -9,3 +9,4 @@ D:\clj-prj\PersistentDataStructures\IPersistentDataStructures\obj\Debug\net8.0\I
 D:\clj-prj\PersistentDataStructures\IPersistentDataStructures\obj\Debug\net8.0\refint\IPersistentDataStructures.dll
 D:\clj-prj\PersistentDataStructures\IPersistentDataStructures\obj\Debug\net8.0\IPersistentDataStructures.pdb
 D:\clj-prj\PersistentDataStructures\IPersistentDataStructures\obj\Debug\net8.0\ref\IPersistentDataStructures.dll
+D:\clj-prj\PersistentDataStructures\IPersistentDataStructures\obj\Debug\net8.0\IPersistentDataStructures.csproj.AssemblyReference.cache

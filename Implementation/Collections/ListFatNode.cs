@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
+
 namespace PersistentDataStructures.Implementation.Collections
 {
     internal class ListFatNode<T>
