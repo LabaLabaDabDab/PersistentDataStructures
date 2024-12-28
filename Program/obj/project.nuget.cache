@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EujOjdON/Mk=",
+  "success": true,
+  "projectFilePath": "D:\\clj-prj\\PersistentDataStructures\\Program\\Program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Stas\\.nuget\\packages\\persistentdatastructures\\1.0.1\\persistentdatastructures.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

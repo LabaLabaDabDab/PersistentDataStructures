@@ -77,8 +77,7 @@ namespace PersistentDataStructures.Tests
             f.Count.Should().Be(2048);
             f.Should().BeEquivalentTo(Enumerable.Range(0, 2048), opt => opt.WithStrictOrdering());
             f[1].Should().Be(1);
-
-            // ReSharper disable once NotAccessedVariable
+            
             int aa;
             Action getAtNegativePos = () => aa = a[-1];
             getAtNegativePos.Should().Throw<ArgumentOutOfRangeException>();
@@ -112,12 +111,10 @@ namespace PersistentDataStructures.Tests
             d.Count.Should().Be(257);
 
             c.Should().BeEquivalentTo(d, opt => opt.WithStrictOrdering());
-
-            // ReSharper disable once ReturnValueOfPureMethodIsNotUsed
+            
             Action removeAt0 = () => a.RemoveAt(0);
             removeAt0.Should().Throw<ArgumentOutOfRangeException>();
             
-            // ReSharper disable once ReturnValueOfPureMethodIsNotUsed
             Action removeAtNegativePos = () => a.RemoveAt(-1);
             removeAtNegativePos.Should().Throw<ArgumentOutOfRangeException>();
 
@@ -129,13 +126,11 @@ namespace PersistentDataStructures.Tests
             f.Count.Should().Be(2048);
             f.Should().BeEquivalentTo(Enumerable.Range(0, 2048), opt => opt.WithStrictOrdering());
             f[1].Should().Be(1);
-
-            // ReSharper disable once NotAccessedVariable
+            
             int aa;
             Action getAtNegativePos = () => aa = a[-1];
             getAtNegativePos.Should().Throw<ArgumentOutOfRangeException>();
-
-            // ReSharper disable once ReturnValueOfPureMethodIsNotUsed
+            
             Action setAtNegativePos = () => a.SetItem(-1, 0);
             setAtNegativePos.Should().Throw<ArgumentOutOfRangeException>();
 
@@ -211,8 +206,7 @@ namespace PersistentDataStructures.Tests
             f.Count.Should().Be(2048);
             f.Should().BeEquivalentTo(Enumerable.Range(0, 2048), opt => opt.WithStrictOrdering());
             f[1].Should().Be(1);
-
-            // ReSharper disable once NotAccessedVariable
+            
             int aa;
             Action getAtNegativePos = () => aa = a[-1];
             getAtNegativePos.Should().Throw<ArgumentOutOfRangeException>();
